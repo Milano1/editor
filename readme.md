@@ -14,6 +14,7 @@
 - simplicity
 - minimum gc
 - minimum set of features, only what we need
+- always operate at worst-case and optimize for that, unexpected slowdowns are not acceptable
 
 ### features
 
